@@ -5,12 +5,12 @@
 ## Peza para orde de movemento 'escornatintón'
 
 A idea do deseño foi baseada en ter unha sóa peza imprimible e que se poida
-cambiar a orde de movemento fixando a flecha dentro da ficha nunha das catro
+cambiar a orde de movemento fixando a frecha dentro da ficha nunha das catro
 posibilidades (adiante, atrás, esquerda ou dereita). Deste xeito, cun só
 deseño se inclúen as 4 posibilidades de movementos do Escornabot e non hai o
 problema de que falten fichas para un dos movementos porque se aproveitan
 todas. Recoméndase a impresión de fornadas en distintas cores para combinar 
-flechas e fichas de distinta cor.
+frechas e fichas de distinta cor.
 
 ![Peza escornatintón](escornatinton.jpg)
 
